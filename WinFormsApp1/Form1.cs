@@ -19,7 +19,7 @@ namespace WinFormsApp1
             InitializeComponent();
             textBox1.Text = Properties.Settings.Default.str1.ToString();
             textBox2.Text = Properties.Settings.Default.str2.ToString();
-
+            //Штука
             var measureItems = new string[]
        {
             "10",
